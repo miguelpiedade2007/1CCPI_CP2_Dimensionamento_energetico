@@ -1,0 +1,11 @@
+id,fabricante,modelo,potencia_wp,voc_v,isc_a,vmp_v,imp_a,eficiencia_pct,preco_brl,fornecedor,data_coleta,url_fonte
+MOD001,Canadian Solar,CS6W-550MS,550,49.8,14.0,41.9,13.13,21.3,589.0,Neosolar,2026-10-01,https://www.neosolar.com.br/painel-canadian-550w
+MOD002,Jinko Solar,Tiger Pro 72HC 545W,545,49.52,13.94,40.8,13.36,21.1,575.0,Aldo Solar,2026-10-01,https://www.aldo.com.br/jinko-545w
+MOD003,JA Solar,JAM72S30-545/MR,545,49.75,13.93,41.8,13.04,21.1,569.9,Minha Casa Solar,2026-10-02,https://www.minhacasasolar.com.br/ja-545w
+MOD004,Trina Solar,Vertex TSM-DE19 550W,550,37.9,18.52,31.6,17.4,21.0,595.0,Neosolar,2026-10-02,https://www.neosolar.com.br/trina-550w
+MOD005,LONGi Solar,LR5-72HPH-545M,545,49.5,13.98,41.8,13.04,21.3,570.0,Aldo Solar,2026-10-02,https://www.aldo.com.br/longi-545w
+MOD006,Canadian Solar,HiKu6 CS6R-450MS,450,41.2,13.88,34.6,13.01,20.8,480.0,Neosolar,2026-10-03,https://www.neosolar.com.br/canadian-450w
+MOD007,DAH Solar,DHN-72X16/DG-585W,585,51.6,14.36,43.2,13.54,22.6,620.0,Minha Casa Solar,2026-10-03,https://www.minhacasasolar.com.br/dah-585w
+MOD008,Risen Energy,RSM110-8-550M,550,38.24,18.28,31.86,17.27,21.0,580.0,Aldo Solar,2026-10-03,https://www.aldo.com.br/risen-550w
+MOD009,Astronergy,CHSM72M-HC 540W,540,49.5,13.85,41.6,12.98,20.9,550.0,Neosolar,2026-10-04,https://www.neosolar.com.br/astronergy-540w
+MOD010,OSDA Solar,ODA550-36V-MH,550,49.9,14.0,41.97,13.11,21.3,565.0,Minha Casa Solar,2026-10-04,https://www.minhacasasolar.com.br/osda-550w

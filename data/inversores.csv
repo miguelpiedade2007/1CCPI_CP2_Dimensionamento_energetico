@@ -1,0 +1,9 @@
+id,fabricante,modelo,tipo,potencia_nominal_w,potencia_max_fv_w,tensao_max_entrada_v,faixa_mppt_min_v,faixa_mppt_max_v,corrente_max_entrada_a,numero_mppt,compativel_bateria,preco_brl,fornecedor,data_coleta,url_fonte
+INV001,Growatt,MIC 3000TL-X,on-grid,3000,4200,500,50,500,13.0,1,false,2190.0,Neosolar,2026-10-01,https://www.neosolar.com.br/growatt-3000tl
+INV002,Growatt,MIN 5000TL-X,on-grid,5000,7000,550,80,500,26.0,2,false,3450.0,Aldo Solar,2026-10-01,https://www.aldo.com.br/growatt-5000tl
+INV003,Deye,SUN-5K-SG04LP1-EU,hibrido,5000,6500,500,125,425,26.0,2,true,8990.0,Minha Casa Solar,2026-10-02,https://www.minhacasasolar.com.br/deye-5k
+INV004,Deye,SUN-8K-SG01LP1-EU,hibrido,8000,10400,500,125,425,44.0,2,true,13500.0,Aldo Solar,2026-10-02,https://www.aldo.com.br/deye-8k
+INV005,Fronius,Primo 5.0-1,on-grid,5000,7500,1000,80,800,24.0,2,false,6800.0,Neosolar,2026-10-03,https://www.neosolar.com.br/fronius-5k
+INV006,Solis,S6-GR1P5K,on-grid,5000,7500,600,90,520,28.0,2,false,3200.0,Aldo Solar,2026-10-03,https://www.aldo.com.br/solis-5k
+INV007,GoodWe,GW5048D-ES,hibrido,5000,6500,580,125,550,22.0,2,true,9400.0,Minha Casa Solar,2026-10-04,https://www.minhacasasolar.com.br/goodwe-5k
+INV008,Sungrow,SG5.0RS,on-grid,5000,7500,600,100,560,32.0,2,false,3800.0,Neosolar,2026-10-04,https://www.neosolar.com.br/sungrow-5k

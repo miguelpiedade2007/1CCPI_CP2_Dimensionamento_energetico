@@ -1,0 +1,7 @@
+id,fabricante,modelo,tecnologia,tensao_nominal_v,capacidade_ah,capacidade_kwh,dod_pct,ciclos,preco_brl,fornecedor,data_coleta,url_fonte
+BAT001,Dyness,B4850,LiFePO4,48.0,50.0,2.4,90.0,6000,4890.0,Neosolar,2026-10-01,https://www.neosolar.com.br/dyness-b4850
+BAT002,Pylontech,US3000C,LiFePO4,48.0,74.0,3.55,95.0,6000,6750.0,Minha Casa Solar,2026-10-01,https://www.minhacasasolar.com.br/pylontech-us3000c
+BAT003,BYD,B-Box Premium LVS 4.0,LiFePO4,51.2,75.0,3.84,90.0,6000,9800.0,Aldo Solar,2026-10-02,https://www.aldo.com.br/byd-lvs-4kwh
+BAT004,Pylontech,US5000,LiFePO4,48.0,100.0,4.8,95.0,6000,9900.0,Neosolar,2026-10-02,https://www.neosolar.com.br/pylontech-us5000
+BAT005,Deye,SE-G5.1 Pro,LiFePO4,51.2,100.0,5.12,90.0,6000,10500.0,Aldo Solar,2026-10-03,https://www.aldo.com.br/deye-se-g51
+BAT006,Unipower,UPLFP48-100,LiFePO4,48.0,100.0,4.8,80.0,4000,8200.0,Minha Casa Solar,2026-10-03,https://www.minhacasasolar.com.br/unipower-48v
